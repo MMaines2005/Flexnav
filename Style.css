@@ -28,8 +28,8 @@ li{
 a{
     color: azure;
 }
-
-.center-box{
+/* start of box within box */
+.center-box{ 
 
     display:block;
     background-color: darkblue;
@@ -50,4 +50,5 @@ a{
     justify-content: center;
     top: 30%;
     left: 50%;
-}
+} 
+/* end of box within box*/
