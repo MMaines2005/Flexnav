@@ -19,6 +19,7 @@ ul{
     display: inline-flex;
     list-style-type: none;
     align-items: center;
+    
 
 }
 li{
@@ -26,6 +27,9 @@ li{
     margin-left:30px;
 }
 a{
+    font-size: small;
+    justify-content: space-between;
+    text-decoration: none;
     color: azure;
 }
 /* start of box within box */
